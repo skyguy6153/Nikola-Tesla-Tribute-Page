@@ -7,8 +7,8 @@
 
 **Febuary 27, 2023**: 
 + Continued adding to the timeline history of Nikola Tesla. 
-+ Background color added
++ Background color added blue `rgb(67, 34, 247)`.
 + Linear gradient applied for better viewing.
-+ Text color changed to a shade of white.
++ Text color changed to a shade of white `rgb(249, 245, 220)`.
 + Border radius added to image to smooth edges.
-+ Text shadow added for better viewing.
++ Text shadow added for better viewing, color black `rgb(0, 0, 0)`.
